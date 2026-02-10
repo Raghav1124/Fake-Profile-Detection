@@ -1,4 +1,4 @@
-# Fake Profile Detection using Machine Learning
+# Fake Profile Detection using Machine Learning (SVM)
 
 This project aims to detect fake profiles using machine learning techniques, specifically employing Support Vector Machines (SVM) with feature engineering and hyperparameter tuning. The model achieves **99.11% accuracy** in distinguishing between genuine and fake Twitter profiles.
 
